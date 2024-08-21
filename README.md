@@ -18,3 +18,5 @@ ChatGPT로 도움받기: [ChatGPT](https://chatgpt.com/share/b3694437-881c-4324-
 2.좋은 선수들을 찾아내는 인사이트
 
 파이썬을 사용해보고 싶다면: [구글](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_SportsEconomics_KR/SportsEconomics_HW.ipynb)
+<img src="screenshot\python_ols.png"  border="5"/>
+[ChatGPD의 설명](https://chatgpt.com/share/44fef86f-97af-4c35-ba84-b7714b2bb787)
