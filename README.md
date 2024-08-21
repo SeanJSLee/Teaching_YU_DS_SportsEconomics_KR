@@ -3,10 +3,10 @@
 - 과제에 도움을 주는 (가짜) KBO 2023 선수데이터와 엑셀을 이용한 데이터 분석 예제.
 - 영남대 학생용 오피스 설치 (전산정보원):https://office.yu.ac.kr/Asp2/Default.aspx
 
-## (추천) 파이썬을 사용해보고 싶다면: [파이썬 사용하기 (구글 Colab)](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_SportsEconomics_KR/SportsEconomics_HW.ipynb)
+## (추천) 파이썬을 사용해보고 싶다면 (링크): [파이썬 사용하기 (구글 Colab)](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_SportsEconomics_KR/SportsEconomics_HW.ipynb)
 <img src="screenshot\python_ols.png"  border="5"/>
 
-[ChatGPD의 설명](https://chatgpt.com/share/44fef86f-97af-4c35-ba84-b7714b2bb787)
+[ChatGPD의 설명 (링크)](https://chatgpt.com/share/44fef86f-97af-4c35-ba84-b7714b2bb787)
 <img src="screenshot\gpt_explain.png"  border="5"/>
 
 
@@ -17,7 +17,7 @@
 - <img src="screenshot\tool_pack_excel_2.png"  border="5"/>
 - <img src="screenshot\tool_pack_excel_3.png"  border="5"/>
 - <img src="screenshot\tool_pack_excel_4.png"  border="5"/>
-- ChatGPT로 엑셀도움받기: [ChatGPT](https://chatgpt.com/share/b3694437-881c-4324-a1ed-f340f388661c)
+- ChatGPT로 엑셀도움받기: [ChatGPT (링크)](https://chatgpt.com/share/b3694437-881c-4324-a1ed-f340f388661c)
 <!-- 1.시즌통계에 관한 인사이트 -->
 <!-- 2.좋은 선수들을 찾아내는 인사이트 -->
 
