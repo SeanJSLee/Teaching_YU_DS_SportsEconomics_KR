@@ -8,10 +8,10 @@
 - 엑셀로 불러오기: 
 
 - 엑셀로 회귀분석하기:
-    - <img src="screenshot\tool_pack_excel.png" width="800" height="600" border="5"/>
-    - <img src="screenshot\tool_pack_excel_2.png" width="800" height="600" border="5"/>
-    - <img src="screenshot\tool_pack_excel_3.png" width="800" height="600" border="5"/>
-    - <img src="screenshot\tool_pack_excel_4.png" width="800" height="600" border="5"/>
+    - <img src="screenshot\tool_pack_excel.png"  border="5"/>
+    - <img src="screenshot\tool_pack_excel_2.png"  border="5"/>
+    - <img src="screenshot\tool_pack_excel_3.png"  border="5"/>
+    - <img src="screenshot\tool_pack_excel_4.png"  border="5"/>
 
 ChatGPT로 도움받기: [ChatGPT](https://chatgpt.com/share/b3694437-881c-4324-a1ed-f340f388661c)
 1.시즌통계에 관한 인사이트
